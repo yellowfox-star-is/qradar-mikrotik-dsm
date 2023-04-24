@@ -1,0 +1,21 @@
+{
+  "doc" : {
+    "extension_manifest" : {
+      "min_qradar_version" : "2019.14.0.20191031163225",
+      "authored_by" : "Community",
+      "authored_by_email" : "",
+      "package_size" : "0",
+      "supported_language_set" : [ "en-US" ],
+      "extension_name" : "extension.name",
+      "extension_long_description" : "extension.long.description",
+      "locale" : {
+        "en-US" : {
+          "extension.long.description" : "",
+          "extension.name" : "Mikrotik RouterOS"
+        }
+      },
+      "version" : "1.0.0"
+    }
+  },
+  "_id" : "Community:Mikrotik RouterOS"
+}
